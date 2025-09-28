@@ -43,10 +43,14 @@ O projeto está organizado em torno dos principais artefatos de gestão ágil, c
 | `product-backlog.pdf` | Jira | 1,5 pts | Visão completa do roadmap do produto (Épicos e Histórias Futuras), incluindo DoR e DoD. | 
 | `sprint-backlog.pdf` | Jira | 1,5 pts | Detalhamento completo das 5 Histórias de Usuário da Sprint 1, com Story Points e Critérios BDD. | 
 | `wireframes/` | Figma | 2,0 pts | Imagens do protótipo de interface (Alta Fidelidade) para as entregas da Sprint 1. | 
-| `Video de Apresentação: https://youtu.be/jUOZezenyfQ` | Mídia/URL | 2,0 pts | Apresentação (pitch/showcase) do projeto em 3-4 minutos. | 
+| 🎥 [Vídeo Pitch](https://youtu.be/jUOZezenyfQ | Mídia/URL | 2,0 pts | Apresentação (pitch/showcase) do projeto em 3-4 minutos. | 
 
 ## 🔗 Links Úteis
 
-* **MVP Canvas & Lean Inception Board (Miro):** (Conteúdo do `canvas-url.txt` aqui)
+- 🎥 **Vídeo Pitch:** [YouTube](https://youtu.be/jUOZezenyfQ)  
+- 📝 **MVP Canvas & Lean Inception:** [Miro](https://miro.com/app/board/uXjVJEFqu8A=/)  
+- 💻 **Artefatos:** [GitHub](https://github.com/LayonFornaciari/finbank-lite-mvp)
+- 🎨 **Protótipos de Interface (Figma):** [Figma](https://www.figma.com/design/IAPtJFhzMekuO624Dk1iAu/Finbank-Lite-MVP?node-id=7020-3430&p=f&t=Km2QQhB8an8gKPHK-0)  
 
-* **Protótipos da Sprint 1:** Acesse a pasta `wireframes/` para visualizar as telas de Login, Dashboard e Cadastro de Despesas.
+## 👨‍💻 Autor
+Projeto desenvolvido por **Layon Mariano Fornaciari**, aluno da disciplina de **Gestão Ágil de Projetos e Produtos**.
