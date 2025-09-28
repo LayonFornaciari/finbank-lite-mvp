@@ -18,14 +18,19 @@ O MVP inicial do Finbank Lite foca na **fundação e na visualização dos gasto
 | **Visualização Rápida** | Exibição imediata de Saldo Total e Histórico Simplificado no Dashboard (atinge o objetivo de clareza). | 
 | **Registro de Despesas** | Inserção manual de transações, essencial para iniciar o controle. | 
 
-## ✅ Qualidade e Requisitos Não Funcionais (DoD)
+## ✅ Qualidade e Requisitos Não Funcionais (DoR e DoD)
 
-Para garantir que a Sprint 1 entregue valor com alta qualidade, definimos o seguinte padrão (Definition of Done - DoD):
+Para garantir um fluxo de trabalho previsível e entregas de alta qualidade, definimos o **Definition of Ready (DoR)** para iniciar o trabalho e o **Definition of Done (DoD)** para finalizá-lo.
 
+**Definition of Ready (DoR)**: Uma história só pode entrar na Sprint se atender a:
+* A História de Usuário (User Story) está bem definida e acordada com o Product Owner.
+* Os Critérios de Aceitação estão claros, específicos e testáveis.
+* **Os Wireframes (Protótipos de Interface) estão anexados.**
+* A estimativa em Story Points foi realizada pelo time.
+
+**Definition of Done (DoD)**: A história só pode ser considerada concluída se atender a:
 * **[RNF: Segurança & Compliance]** Todo o tráfego utiliza HTTPS, e dados sensíveis são criptografados em repouso (AES-256), conforme as diretrizes da LGPD.
-
 * **[RNF: Performance]** O tempo de resposta para listar transações é inferior a 2 segundos em cenários de 50 usuários simultâneos.
-
 * **[Processo]** Cobertura de testes automatizados de 80% e aceite formal do Product Owner.
 
 ## 📂 Estrutura de Entrega e Artefatos
