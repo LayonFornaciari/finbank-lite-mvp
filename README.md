@@ -43,7 +43,7 @@ O projeto está organizado em torno dos principais artefatos de gestão ágil, c
 | `product-backlog.pdf` | Jira | 1,5 pts | Visão completa do roadmap do produto (Épicos e Histórias Futuras), incluindo DoR e DoD. | 
 | `sprint-backlog.pdf` | Jira | 1,5 pts | Detalhamento completo das 5 Histórias de Usuário da Sprint 1, com Story Points e Critérios BDD. | 
 | `wireframes/` | Figma | 2,0 pts | Imagens do protótipo de interface (Alta Fidelidade) para as entregas da Sprint 1. | 
-| `[Link do Vídeo]` | Mídia/URL | 2,0 pts | Apresentação (pitch/showcase) do projeto em 3-4 minutos. | 
+| `[[Link do Vídeo]](https://youtu.be/jUOZezenyfQ)` | Mídia/URL | 2,0 pts | Apresentação (pitch/showcase) do projeto em 3-4 minutos. | 
 
 ## 🔗 Links Úteis
 
